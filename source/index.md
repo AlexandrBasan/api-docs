@@ -3,11 +3,17 @@ title: API Reference
 
 language_tabs:
   - shell
+  - http
   - ruby
   - python
+  - json
+  - xml
 
 toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
+  - <a href=''>Are you still have a questions?</a>
+  - </br>
+  - </br>
   - <a href='http://github.com/tripit/slate'>Documentation Powered by Slate</a>
 
 includes:
